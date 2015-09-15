@@ -1,0 +1,5 @@
+<resources>
+    <style name="GangAnalyse" parent="android:style/Theme.NoTitleBar">
+        <item name="android:buttonStyle">@drawable/button</item>
+    </style>
+</resources>

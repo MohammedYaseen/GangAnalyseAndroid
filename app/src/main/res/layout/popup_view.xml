@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+        style="@style/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Als Rechte Sohle Auswählen"
+        android:id="@+id/rightSoleButton"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        style="@style/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Als Linke Sohle Auswählen"
+        android:id="@+id/leftSoleButton"
+        android:layout_gravity="center_horizontal"/>
+    <Button
+        style="@style/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pairingButton"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        style="@style/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abbrechen"
+        android:id="@+id/cancelButton"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>

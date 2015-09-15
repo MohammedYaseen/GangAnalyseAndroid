@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GangAnalyse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string name="text_bluetooth_off">Bluetooth ist AUS</string>
+    <string name="text_bluetooth_on">Bluetooth ist AN</string>
+
+    <string name="text_enable">Aktivieren</string>
+    <string name="text_disable">Deaktivieren</string>
+
+    <string name="text_view_paired">Gekoppelte Geräte</string>
+    <string name="text_scan_devices">Scannen</string>
+    <string name="text_stop_scan">Scannen</string>
+
+    <string name="text_list_paired_devices">Gekoppelte Geräte</string>
+    <string name="text_list_devices">Geräte</string>
+
+    <string name="text_pair">Koppeln</string>
+
+    <string name="title_activity_view_data">ViewDataActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_select_sole">SelectSoleActivity</string>
+    <string name="title_activity_device_list">DeviceListActivity</string>
+
+    <string name="next">OK</string>
+    <string name="text_settings">Einstellungen</string>
+    <string name="text_recording">Aufnahme</string>
+    <string name="title_activity_recording">RecordingActivity</string>
+    <string name="test_connect_devices">Geräte Verbinden</string>
+    <string name="text_disconnect_devices">Geräte Trennen</string>
+
+
+</resources>
